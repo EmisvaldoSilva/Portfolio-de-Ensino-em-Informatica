@@ -1,2 +1,2 @@
-# Portf-lio-de-Ensino-em-Inform-tica
-Repositório de aulas de Informática abrangendo Programação, Redes, Segurança da Informação e mais. Inclui planos de aula, slides e códigos. Licença CC BY-SA para uso e contribuição educacional.
+# Portfólio de Ensino em Informática
+Este repositório serve como um portfólio compreensivo das aulas de Informática que desenvolvi, abrangendo tópicos como Programação Orientada a Objetos, Segurança da Informação, Redes de Computadores, entre outros. Cada diretório contém materiais didáticos detalhados, incluindo planos de aula, slides, códigos-fonte, e recursos interativos. Destinado a educadores, estudantes e entusiastas da tecnologia, este portfólio demonstra práticas de ensino eficazes e inovadoras na área de TI.
